@@ -1,0 +1,7 @@
+__pycache__/
+.env
+data/chroma_db/
+.streamlit/
+*.pyc
+venv/
+.pytest_cache/
